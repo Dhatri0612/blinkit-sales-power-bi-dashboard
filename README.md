@@ -1,4 +1,5 @@
 Blinkit Sales Dashboard
+
 📊 Project Overview
 
 This project is an interactive Blinkit Sales Analysis Dashboard built using Microsoft Power BI. The dashboard provides insights into sales performance, outlet characteristics, item types, and customer ratings.
@@ -8,6 +9,7 @@ Microsoft Power BI
 Microsoft Excel
 Power Query
 DAX
+
 📌 Dashboard Features
 Total Sales analysis
 Average Sales analysis
@@ -22,12 +24,14 @@ Outlet Establishment trend
 Interactive filters and slicers
 Reset filter button
 Interactive information button
+
 📈 Key KPIs
 KPI	Value
 Total Sales	$1.20M
 Average Sales	$141
 No. of Items	8,523
 Average Rating	3.9
+
 📂 Dataset
 
 The dataset contains information about Blinkit products and outlets, including:
@@ -42,6 +46,7 @@ Item Visibility
 Item Weight
 Sales
 Rating
+
 📊 Dashboard Preview
 
 The dashboard allows users to interact with different filters and analyze sales performance across various outlet and product categories.
