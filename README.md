@@ -5,12 +5,14 @@ Blinkit Sales Dashboard
 This project is an interactive Blinkit Sales Analysis Dashboard built using Microsoft Power BI. The dashboard provides insights into sales performance, outlet characteristics, item types, and customer ratings.
 
 🛠️ Tools & Technologies
+
 Microsoft Power BI
 Microsoft Excel
 Power Query
 DAX
 
 📌 Dashboard Features
+
 Total Sales analysis
 Average Sales analysis
 Number of Items
