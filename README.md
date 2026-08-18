@@ -7,31 +7,51 @@ This project is an interactive Blinkit Sales Analysis Dashboard built using Micr
 🛠️ Tools & Technologies
 
 Microsoft Power BI
+
 Microsoft Excel
+
 Power Query
+
 DAX
 
 📌 Dashboard Features
 
 Total Sales analysis
+
 Average Sales analysis
+
 Number of Items
+
 Average Rating
+
 Sales by Outlet Location
+
 Sales by Outlet Size
+
 Sales by Outlet Type
+
 Sales by Item Type
+
 Fat Content analysis
+
 Outlet Establishment trend
+
 Interactive filters and slicers
+
 Reset filter button
+
 Interactive information button
 
 📈 Key KPIs
+
 KPI	Value
+
 Total Sales	$1.20M
+
 Average Sales	$141
+
 No. of Items	8,523
+
 Average Rating	3.9
 
 📂 Dataset
@@ -39,14 +59,23 @@ Average Rating	3.9
 The dataset contains information about Blinkit products and outlets, including:
 
 Item Type
+
 Item Fat Content
+
 Outlet Establishment Year
+
 Outlet Location Type
+
 Outlet Size
+
 Outlet Type
+
 Item Visibility
+
 Item Weight
+
 Sales
+
 Rating
 
 📊 Dashboard Preview
