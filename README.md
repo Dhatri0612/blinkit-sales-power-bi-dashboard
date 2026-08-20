@@ -1,4 +1,4 @@
-Blinkit Sales Dashboard
+Blinkit Sales Power BI Dashboard
 
 📊 Project Overview
 
