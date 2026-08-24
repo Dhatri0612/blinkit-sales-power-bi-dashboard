@@ -1,91 +1,112 @@
-Blinkit Sales Power BI Dashboard
+# 🛒 Blinkit Sales Analysis Dashboard | Power BI
 
-📊 Project Overview
+An interactive dashboard created in **Microsoft Power BI** to analyze Blinkit sales data and compare sales across products, outlets, and locations.
 
-This project is an interactive Blinkit Sales Analysis Dashboard built using Microsoft Power BI. The dashboard provides insights into sales performance, outlet characteristics, item types, and customer ratings.
+## 📊 Dashboard Preview
 
-🛠️ Tools & Technologies
+![Blinkit Sales Dashboard](Dashboard/blinkit-sales-dashboard.png)
 
-Microsoft Power BI
+## 📌 Project Overview
 
-Microsoft Excel
+This project uses Blinkit sales data to build an interactive dashboard for understanding overall sales performance and outlet-wise trends.
 
-Power Query
+The dashboard includes:
 
-DAX
+* Overall sales performance
+* Sales by outlet type and location
+* Item type and fat content analysis
+* Outlet size analysis
+* Customer ratings
+* Outlet establishment trends
 
-📌 Dashboard Features
+Slicers and filters allow the data to be explored by different categories.
 
-Total Sales analysis
+## 🎯 Project Objectives
 
-Average Sales analysis
+* Analyze overall sales performance
+* Compare sales across outlet types and locations
+* Analyze product categories and fat content
+* Compare different outlet sizes
+* Track sales across outlet establishment years
 
-Number of Items
+## 📈 Key KPIs
 
-Average Rating
+| KPI                 |      Value |
+| ------------------- | ---------: |
+| **Total Sales**     | **$1.20M** |
+| **Average Sales**   |   **$141** |
+| **Number of Items** |  **8,523** |
+| **Average Rating**  |    **3.9** |
 
-Sales by Outlet Location
+## 📊 Dashboard Features
 
-Sales by Outlet Size
+### 💰 Sales
 
-Sales by Outlet Type
+* Total Sales
+* Average Sales
+* Sales by Outlet Type
+* Sales by Outlet Location
+* Sales by Outlet Size
 
-Sales by Item Type
+### 🛍️ Products
 
-Fat Content analysis
+* Sales by Item Type
+* Fat Content Analysis
+* Number of Items
+* Item Visibility
 
-Outlet Establishment trend
+### 🏪 Outlets
 
-Interactive filters and slicers
+* Outlet Establishment Trend
+* Outlet Location Analysis
+* Outlet Size Analysis
+* Outlet Type Comparison
 
-Reset filter button
+### 🎛️ Interactive Controls
 
-Interactive information button
+* Dynamic slicers and filters
+* Reset Filter button
+* Interactive information button
 
-📈 Key KPIs
+## 🗂️ Dataset
 
-KPI	Value
+The dataset contains product, sales, and outlet information, including:
 
-Total Sales	$1.20M
+* Item Type
+* Item Fat Content
+* Item Weight
+* Item Visibility
+* Outlet Establishment Year
+* Outlet Location Type
+* Outlet Size
+* Outlet Type
+* Sales
+* Customer Rating
 
-Average Sales	$141
+## 🛠️ Tools Used
 
-No. of Items	8,523
+* **Power BI** — Dashboard and visualizations
+* **Power Query** — Data cleaning and transformation
+* **DAX** — Measures and calculations
+* **Excel** — Dataset
 
-Average Rating	3.9
+## 🔍 Analysis Covered
 
-📂 Dataset
+The dashboard helps compare:
 
-The dataset contains information about Blinkit products and outlets, including:
+* Sales across different outlet types
+* Sales across outlet locations
+* Performance of different product categories
+* Sales by outlet size
+* Sales based on fat content
+* Sales across outlet establishment years
 
-Item Type
+## 🚀 How to View
 
-Item Fat Content
+1. Download the `.pbix` file from this repository.
+2. Open it in **Microsoft Power BI Desktop**.
+3. Use the slicers and visuals to explore the dashboard.
 
-Outlet Establishment Year
+## 👩‍💻 Author
 
-Outlet Location Type
-
-Outlet Size
-
-Outlet Type
-
-Item Visibility
-
-Item Weight
-
-Sales
-
-Rating
-
-📊 Dashboard Preview
-
-The dashboard allows users to interact with different filters and analyze sales performance across various outlet and product categories.
-
-🎯 Project Objective
-
-The objective of this project is to analyze Blinkit's sales data and create an interactive dashboard that helps identify sales trends, outlet performance, product performance, and other important business insights.
-
-👩‍💻 Author
-
-Dhatri Tripathi
+**Dhatri Tripathi**
