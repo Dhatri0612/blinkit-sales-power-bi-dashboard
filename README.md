@@ -83,14 +83,14 @@ The dataset contains product, sales, and outlet information, including:
 * Sales
 * Customer Rating
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Technologies
 
 * **Power BI** — Dashboard and visualizations
 * **Power Query** — Data cleaning and transformation
 * **DAX** — Measures and calculations
 * **Excel** — Dataset
 
-## 🔍 Analysis Covered
+## 🔍 Key Insights
 
 The dashboard helps compare:
 
