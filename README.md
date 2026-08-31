@@ -110,3 +110,5 @@ The dashboard helps compare:
 ## 👩‍💻 Author
 
 **Dhatri Tripathi**
+
+B.Tech CSE | Data Analytics Enthusiast
